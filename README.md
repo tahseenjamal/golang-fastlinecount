@@ -21,12 +21,10 @@ Just type the name of the file who lines you want to count
 datafile size 709MB
 
 time ./linecount datafile 
+
 3897283
 
-real    0m0.802s
-user    0m0.709s
-sys 0m0.212s
+Finished in 0.802 seconds
 
 
 
-## Tahseen lives somewhere in time
